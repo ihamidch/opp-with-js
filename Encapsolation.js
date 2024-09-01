@@ -30,3 +30,6 @@ Account.deposit(8000)
 console.log(Account.Getbalance());
 Account.Withdraw(2000)
 console.log(Account.Getbalance());
+
+// this use to hide sensitive data like bank account number, password etc
+// this is the way to hide the data from outside of class
